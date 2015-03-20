@@ -1,0 +1,6 @@
+Lesson 2-2 Reflections
+
+The staging area is the work area between the repository and the working directory.  It includes files that may or may not be changed and then commited.
+
+It gives you a place to do your work and then commit changes in a more logical way, meaning making one logical change and commiting it is easier and more simplified.
+
