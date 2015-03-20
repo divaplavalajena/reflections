@@ -1,0 +1,4 @@
+Reflections - Using diff to find bugs
+
+It saved me time by spotting the bugs for me.
+Then I could review the bugs and fix them in a fraction of the time it would have taken me otherwise.
