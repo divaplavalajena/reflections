@@ -3,3 +3,5 @@ Reflections - Using version control: Manual Commits
 Manual commits require just the right size.  Not too large (too many things in one version is not enough versions) or too small (too many versions with tiny changes is also not a good idea). 
 
 You want to save/commit when you have made changes to one feature or fixed a couple of typos.
+
+One logical change is the best way to look at when to do a commit.
