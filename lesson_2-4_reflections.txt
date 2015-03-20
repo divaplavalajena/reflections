@@ -1,0 +1,8 @@
+Lesson 2-4 Reflections - When to use branches
+
+What are some situations when branches would be helpful in keeping your history organized?
+If you want to try out an experimental feature for your program or translate it to a different language.
+
+How would branches help?
+branches allow you to keep your original master in good working order and still perform the additions or experiments without damaging the master.
+

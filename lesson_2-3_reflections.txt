@@ -1,0 +1,7 @@
+Lesson 2-3 Reflections
+
+How can you use staging area to make sure you have one commit per logical change?
+
+Because you can only want to have a few files in the staging area it limits the changes you intend to make.
+Therefore, it limits your changes to the file or files that are logically connected to that change.
+
