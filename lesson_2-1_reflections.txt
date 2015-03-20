@@ -1,0 +1,5 @@
+Lesson 2-1 Reflections
+
+When I initialize a repository, a .git file is created, but hidden from file explorers view, in order to track meta data regarding the git repository.
+
+This meta data includes commit history.
