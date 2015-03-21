@@ -1,0 +1,8 @@
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+
+Because save points are going to be different depending on what logical changes are being made, it doesn't make sense to do so on
+a set time frame.  Also, if done so automatically, changes make would need to be committed, requiring a commit message.
+Even if a notification, or auto-save, popped up to ask for a message, it might not be a good time for said save/commit, negating
+the reason/purpose for the commits needing to be one logical change, and thus, what message would you write?
+
+It is better to have the power to save as needed, commit as needed, and then pull/push when commits are complete.
