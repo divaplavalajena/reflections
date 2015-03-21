@@ -1,1 +1,3 @@
 When would you want to create a remote repository rather than keeping all your work local?
+It automatically creates a backup in case your local system is damaged and work is lost on a local level.
+Also, it creates a secure environment to share work on a group project much more easily than on a local, or several local systems.
