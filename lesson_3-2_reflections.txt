@@ -6,3 +6,9 @@ Even if a notification, or auto-save, popped up to ask for a message, it might n
 the reason/purpose for the commits needing to be one logical change, and thus, what message would you write?
 
 It is better to have the power to save as needed, commit as needed, and then pull/push when commits are complete.
+
+
+Describe the differences between forks, clones, and branches.  When would you use one instead of another?
+Branches branch off of one line of commits (for a new feature or language to try out without damaging the master code which hopefully works).
+Clones are copies of the existing files, file structure, and commit history.
+Forks are clones of existing projects that can be made more easily than cloning to a local repository and then back to GitHub, etc.
