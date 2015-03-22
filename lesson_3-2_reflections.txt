@@ -24,3 +24,8 @@ the different files.  It would be very time consuming and band-width consuming.
 GitHub is easier for those two reasons. Also, merging changes made to the same files being worked on by more than one person
 are easier to fix/tweak and then move forward.  It just takes knowing the GitHub interface.  Well worth the effot.
 
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+Smaller changes such as the ones Caroline and Sarah made could be done with comments to the original holder of the repository.
+This would save branches and merges for larger logical changes that would make it appropriate for the level of detail involved
+in performing the multiple steps for branching, merging, and fixing collaborative efforts.
