@@ -4,7 +4,6 @@ Because save points are going to be different depending on what logical changes 
 a set time frame.  Also, if done so automatically, changes make would need to be committed, requiring a commit message.
 Even if a notification, or auto-save, popped up to ask for a message, it might not be a good time for said save/commit, negating
 the reason/purpose for the commits needing to be one logical change, and thus, what message would you write?
-
 It is better to have the power to save as needed, commit as needed, and then pull/push when commits are complete.
 
 
@@ -12,3 +11,8 @@ Describe the differences between forks, clones, and branches.  When would you us
 Branches branch off of one line of commits (for a new feature or language to try out without damaging the master code which hopefully works).
 Clones are copies of the existing files, file structure, and commit history.
 Forks are clones of existing projects that can be made more easily than cloning to a local repository and then back to GitHub, etc.
+
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+It helps to compare with what the current status is of the local repository.  
+This way, one can know if the current repository is in need of pushing to the remote repository.
